@@ -1,0 +1,16 @@
+{
+  "name": "exp-pg",
+  "version": "1.0.0",
+  "description": "A Boilerplate Todo RESTful API in express and postgres",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["express", "postgres"],
+  "author": "tharunoptimus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
